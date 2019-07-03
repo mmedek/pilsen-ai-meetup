@@ -1,0 +1,8 @@
+numpy == 1.16.4
+scikit-learn == 0.19.1
+pandas == 0.24.2
+auto-sklearn == 0.5.2
+eli5 == 0.8.2
+skater == 1.1.2
+shap == 0.29.1
+scikit-image == 0.15.0
